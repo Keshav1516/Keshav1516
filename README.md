@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keshav Chauhan</h1>
-<h3 align="center">Aspiring Data Scientist | AI Enthusiast | Python Developer | Streamlit App Creator</h3>
+<h3 align="center">Aspiring Data Scientist | AI Enthusiast | Data Analyst | Business Analyst</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Turning+Data+into+Decisions.;Passionate+about+AI+%26+ML.;Building+Cool+Things+with+Python!;Welcome+to+my+Tech+Universe+🌌" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🎓 I’m a **Data Science & AI postgraduate** student at Techstack Institute
+- 🎓 I’m a **Data Science & AI postgraduate** student from Techstack Institute
 - 👨‍💻 Currently building intelligent apps using **Machine Learning**, **NLP**, and **Streamlit**
 - 🔍 Exploring **Computer Vision**, **Recommendation Systems**, and **AI Assistants**
 - 🌱 Currently learning **Deep Learning**, **LangChain**, and **LLMs**
