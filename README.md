@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Keshav Chauhan</h1>
+<h3 align="center">Aspiring Data Scientist | AI Enthusiast | Python Developer | Streamlit App Creator</h3>
 
-<!--
-**Keshav1516/Keshav1516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Turning+Data+into+Decisions.;Passionate+about+AI+%26+ML.;Building+Cool+Things+with+Python!;Welcome+to+my+Tech+Universe+🌌" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 I’m a **Data Science & AI postgraduate** student at Techstack Institute
+- 👨‍💻 Currently building intelligent apps using **Machine Learning**, **NLP**, and **Streamlit**
+- 🔍 Exploring **Computer Vision**, **Recommendation Systems**, and **AI Assistants**
+- 🌱 Currently learning **Deep Learning**, **LangChain**, and **LLMs**
+- 💼 I have a background in **Analytics, SQL, Python**, and **End-to-End ML Pipelines**
+- 🧠 Always curious, always learning!
+
+---
+
+### 🧠 Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,streamlit,tensorflow,sklearn,pandas,numpy,sql,mysql,jupyter,git,github,vscode,html,css" />
+</p>
+
+- **Languages**: Python, SQL, HTML/CSS  
+- **Libraries**: scikit-learn, Pandas, NumPy, NLTK, OpenCV, Matplotlib  
+- **Tools**: Streamlit, Jupyter Notebook, Git/GitHub, VS Code  
+- **Areas of Interest**: Data Science, AI, NLP, ML, Streamlit, AI Voice Agents, Recommendation Engines
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Keshav1516&show_icons=true&theme=radical" alt="Keshav's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Keshav1516&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav1516&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [💬 Chatbot App](https://github.com/Keshav1516/end-to-end-chatbot) | NLP-based chatbot built with Streamlit & ML | Python, Streamlit, NLTK, scikit-learn |
+| [🏘️ Bengaluru Property Price Predictor](https://github.com/Keshav1516/benglore_property_price_predict_app) | ML app to predict Bangalore house prices | Streamlit, pandas, scikit-learn |
+| [🧍 Object Detection Notebook](https://github.com/Keshav1516/object_detection_project) | OpenCV-powered object detection demo | Python, OpenCV, Jupyter |
+
+---
+
+### 📝 Blog Posts & Articles
+
+Coming soon… 🚧  
+Stay tuned for blogs on:
+- Deploying ML Models with Streamlit 🚀
+- How to Build a Voice-Based AI Assistant 🤖
+- End-to-End Data Science Projects for Your Resume 📊
+
+---
+
+### 🤝 Let's Connect
+
+- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/-keshav-chauhan-/))  
+- 📨 Reach me at: **chauhankeshav56@gmail.com**
+
+---
+
+### 🧠 I'm Passionate About
+
+`#MachineLearning` `#ArtificialIntelligence` `#DataScience` `#Python` `#NLP` `#OpenCV` `#Streamlit` `#ComputerVision` `#AIApps` `#SQLAnalytics` `#LLMs` `#GenerativeAI` `#DeepLearning` `#GitHubProjects` `#PromptEngineering` `#AIProductivity` `#TechInnovation`
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keshav1516&theme=radical" />
+</p>
+
+---
+
+> ✨ “Code is not just written. It's crafted. It's a tool to build a better world.” — _Keshav Chauhan_
