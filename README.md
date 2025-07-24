@@ -24,10 +24,10 @@
   <img src="https://skillicons.dev/icons?i=python,streamlit,tensorflow,sklearn,pandas,numpy,sql,mysql,jupyter,git,github,vscode,html,css" />
 </p>
 
-- **Languages**: Python, SQL, HTML/CSS  
+- **Languages**: Python, SQL, R  
 - **Libraries**: scikit-learn, Pandas, NumPy, NLTK, OpenCV, Matplotlib  
 - **Tools**: Streamlit, Jupyter Notebook, Git/GitHub, VS Code  
-- **Areas of Interest**: Data Science, AI, NLP, ML, Streamlit, AI Voice Agents, Recommendation Engines
+- **Areas of Interest**: Data Science, AI, NLP, ML, Streamlit, AI Voice Agents, Computter Vision,
 
 ---
 
@@ -63,7 +63,7 @@ Stay tuned for blogs on:
 
 ### 🤝 Let's Connect
 
-- 💼 [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/-keshav-chauhan-/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/-keshav-chauhan-/)  
 - 📨 Reach me at: **chauhankeshav56@gmail.com**
 
 ---
