@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keshav Chauhan</h1>
 <h3 align="center">Aspiring Data Scientist | AI Enthusiast | Data Analyst | Business Analyst</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Turning+Data+into+Decisions.;Passionate+about+AI+%26+ML.;Building+Cool+Things+with+Python!;Welcome+to+my+Tech+Universe+🌌" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🚀 About Me
