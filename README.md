@@ -17,7 +17,7 @@
 ### 🧠 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,sql,mysql,jupyter,spyder,colab,git,github,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pytorch,tensorflow,mysql,jupyter,git,github,vscode,html,css" />
 </p>
 
 - **Languages**: Python, SQL, R  
