@@ -25,17 +25,6 @@
 - **Tools**: Streamlit, Jupyter Notebook, Git/GitHub, VS Code  
 - **Areas of Interest**: Data Science, AI, NLP, ML, Streamlit, AI Voice Agents, Computter Vision,
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keshav1516&show_icons=true&theme=radical" alt="Keshav's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Keshav1516&theme=radical&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav1516&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 🔥 Featured Projects
 
