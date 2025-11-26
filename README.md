@@ -25,6 +25,7 @@
 - **Tools**: Streamlit, Jupyter Notebook, Git/GitHub, VS Code  
 - **Areas of Interest**: Data Science, AI, NLP, ML, Streamlit, AI Voice Agents, Computter Vision,
 
+---
 
 ### 🔥 Featured Projects
 
